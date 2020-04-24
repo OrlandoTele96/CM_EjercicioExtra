@@ -3,6 +3,7 @@ package com.example.cm_ejercicioextra;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
@@ -32,5 +33,12 @@ public class MainActivity extends AppCompatActivity {
         tvNumber.setText(getResources().getString(R.string.tnumbers));
 
         btnSort.setText(getResources().getString(R.string.bsort));
+
+        btnSort.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+
+            }
+        });
     }
 }
