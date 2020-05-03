@@ -1,6 +1,16 @@
 <resources>
     <string name="app_name">CM_EjercicioExtra</string>
-    <string name="instruction">Type 4 numbers</string>
+    <string name="instruction">Type positive numbers with 4 digits</string>
     <string name="tnumbers">Numbers</string>
     <string name="bsort">Sort!</string>
+    <string name="voidtext" translatable="false"> </string>
+    <string name="nadd">Number added</string>
+    <string name="error_positive">You have to type a positive number</string>
+    <string name="ma" translatable="false">MainActivity</string>
+    <string name="sorted_msj">sorting</string>
+    <string name="r" translatable="false">radix</string>
+    <string name="error_void">Error : you have to add a number to be sorted</string>
+    <string name="error_digits">You olnly can add numbers with 4 digits</string>
+    <string name="n_example">Example : 1000</string>
+
 </resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CM_EjercicioExtra</string>
+    <string name="instruction">Escriba numeros positivos con 4 digitos</string>
+    <string name="tnumbers">Numeros</string>
+    <string name="bsort">Ordenar</string>
+    <string name="nadd">Numero añadido</string>
+    <string name="error_positive">Tienes que escribir un numero positivo</string>
+    <string name="sorted_msj">Ordenando</string>
+    <string name="error_void">Error : Tienes que añadir numeros para ser ordenados</string>
+    <string name="error_digits">Solamente puedes añadir numeros con 4 digitos</string>
+    <string name="n_example">Ejemplo : 1000</string>
+</resources>
