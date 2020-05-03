@@ -1,4 +1,4 @@
-             #Proyecto extra : Metodo de ordenacion, radix sort
+             # Proyecto extra : Metodo de ordenacion, radix sort
              
              Como método se usa Radix sort. Este metodo consiste en sacar el número máximo de digitos en el arreglo,
                 en base a eso, se tienen 10 cubetas (cada una para los digitos 0,1,2,3,4,5,6,7,8,9). La primera iteración
